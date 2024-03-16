@@ -10,17 +10,28 @@ This repository contains:
 
 ------------------------------------------------------------------------
 ## Reinforcement Learning
-- Week 1 - Introduction
-- Week 2 - RL Basics
-- Week 3 - Value based algorithms - DQN
-- Week 4 - Policy gradient algorithms - REINFORCE & A2C
-- Week 5 - Advanced Policy Gradients - PPO
-- Week 6 - Evolution Strategies and Genetic Algorithms - ES
-- Week 7 - Model-Based reinforcement learning - MB-MF
-- Week 8 - Advanced Concepts and Project Of Your Choice
 
+### Tabular methods
+- Multi-armed Bandits
+- Finite Markove Decision Processes
+- Dynamic Programming
+- Monte Carlo Methods
+- Temporal Difference Learning
+- n-step Bootstrapping
+- Planning and Learning with Tabular Methods
+
+### Approximate Methods
+- On-policy with Approximation
+- On-policy Control with Approximation
+- Off-policy Methods with Approximation
+- Eligibility Traces
+- Policy Gradient Methods
+     - REINFORCE
+     - Actor-Critic Methods
+     - Policy Gradients
+       
 -------------------------------------------------------------------------
-## Multi-Agent Reinforcement Learning
+## Multi-Agent Reinforcement Learning(https://www.marl-book.com/download/marl-book.pdf)
 
 #### Part 1: Foundations of Multi-Agent Reinforcement Learning
 
