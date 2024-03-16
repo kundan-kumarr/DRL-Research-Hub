@@ -9,7 +9,7 @@ This repository contains:
 - Multiagent Deep Reinforcement Learning
 
 
-Email: email me if you have any idea, suggestion or improvement.
+
 
 Index - Reinforcement Learning
 Week 1 - Introduction
@@ -25,3 +25,4 @@ Last 4 days - Review + Sharing
 Best resources
 Additional resources
 
+Email: email me if you have any idea, suggestion or improvement.
