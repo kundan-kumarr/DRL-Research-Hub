@@ -20,8 +20,23 @@ This repository contains:
 - Week 8 - Advanced Concepts and Project Of Your Choice
 
 -------------------------------------------------------------------------
-Additional resources
+## Multi-Agent Reinforcement Learning
 
+#### Part 1: Foundations of Multi-Agent Reinforcement Learning
+
+- Reinforcement Learning
+- Models of Multi-Agent Interaction
+- Solution Concepts for Games
+- Multi-Agent Reinforcement Learning in Games: First Steps and Challenges
+- Multi-Agent Reinforcement Learning: Foundational Algorithms
+
+#### Part 2: Multi-Agent Deep Reinforcement Learning: Algorithms and Practice
+
+- Deep Learning
+- Deep Reinforcement Learning
+- Multi-Agent Deep Reinforcement Learning
+- Multi-Agent Deep RL in Practice
+- Multi-Agent Environments
 
 --------------------------------------------------------------------------
 
