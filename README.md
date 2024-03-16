@@ -31,7 +31,7 @@ This repository contains:
      - Policy Gradients
        
 -------------------------------------------------------------------------
-## Multi-Agent Reinforcement Learning(https://www.marl-book.com/download/marl-book.pdf)
+## Multi-Agent Reinforcement Learning[(https://www.marl-book.com/download/marl-book.pdf)]
 
 #### Part 1: Foundations of Multi-Agent Reinforcement Learning
 
