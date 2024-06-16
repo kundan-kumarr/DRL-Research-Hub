@@ -65,17 +65,12 @@ This repository contains:
    [RL]: <https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm>
    [Multi-Agent  Reinforcement Learning]: <https://www.marl-book.com/download/marl-book.pdf>
 
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+   [Transformer Reinforcement Learning]: <https://huggingface.co/docs/trl/index>
+   [Deep-rl]: <https://huggingface.co/learn/deep-rl-course/en/unit1/additional-readings#deep-rl>
+   [OpenAI-rl]: <https://spinningup.openai.com/en/latest/spinningup/rl_intro.html>
+   [Transformer]: <https://huggingface.co/docs/transformers/main/en/quicktour>
+ 
 
-Transformer Reinforcement Learning : https://huggingface.co/docs/trl/index
-https://huggingface.co/learn/deep-rl-course/en/unit1/additional-readings#deep-rl
-https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
-
-Transformer: https://huggingface.co/docs/transformers/main/en/quicktour
+Transformer: 
 
 Email: email me if you have any idea, suggestion or improvement.
