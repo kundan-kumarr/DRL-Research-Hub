@@ -43,7 +43,7 @@ This repository contains:
 - Multi-Agent Reinforcement Learning: Foundational Algorithms
 
 #### Part 2: Multi-Agent Deep Reinforcement Learning: Algorithms and Practice
-
+-    [PlDb]
 - Deep Learning
 - Deep Reinforcement Learning
 - Multi-Agent Deep Reinforcement Learning
@@ -63,6 +63,7 @@ This repository contains:
    [Deep Reinforcement Learning]: <https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u>
    [Physics DRL]: <https://www.youtube.com/@Eigensteve/videos>
    [RL]: <https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm>
+   [Multi-Agent  Reinforcement Learning]: <https://www.marl-book.com/download/marl-book.pdf>
 
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
