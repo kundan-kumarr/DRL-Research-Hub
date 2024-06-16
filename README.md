@@ -4,7 +4,7 @@
 Deep Reinforcement Learning combines reinforcement learning and deep neural network Networks. This repository contains algorithms, code, and examples with Python, Pytorch, stablebaseline3, and RayLib.
 
 This repository contains:
-- [AngularJS] - HTML enhanced for web apps!
+- [Reinforcement-Learning] - Reinforcement Learning
 - Reinforcement Learning [DeepMind and Berkley youtube]
 - Deep reinforcement Learning
 - Multiagent Deep Reinforcement Learning
