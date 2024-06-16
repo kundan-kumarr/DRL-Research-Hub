@@ -1,6 +1,6 @@
 ## Deep-Reinforcement-Learning (Single and Multiagent Learning)
- #90DaysDRLChallenge [24th Mar - 16th June 2024]
- 
+ #100DaysDRLChallenge [28th June - 6th Oct 2024]
+
 Deep Reinforcement Learning combines reinforcement learning and deep neural network Networks. This repository contains algorithms, code, and examples with Python, Pytorch, stablebaseline3, and RayLib.
 
 This repository contains:
@@ -32,7 +32,7 @@ This repository contains:
      - Policy Gradients
        
 -------------------------------------------------------------------------
-## Multi-Agent Reinforcement Learning[(https://www.marl-book.com/download/marl-book.pdf)]
+## [Multi-Agent  Reinforcement Learning] Book
 
 #### Part 1: Foundations of Multi-Agent Reinforcement Learning
 
