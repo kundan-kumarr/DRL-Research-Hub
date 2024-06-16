@@ -1,5 +1,5 @@
 ## Deep-Reinforcement-Learning (Single and Multiagent Learning)
- #100DaysDRLChallenge [28th June - 6th Oct 2024]
+ #100DaysofDRLChallenge [28th June - 6th Oct 2024]
 
 Deep Reinforcement Learning combines reinforcement learning and deep neural network Networks. This repository contains algorithms, code, and examples with Python, Pytorch, stablebaseline3, and RayLib.
 
@@ -72,5 +72,10 @@ This repository contains:
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
 
+Transformer Reinforcement Learning : https://huggingface.co/docs/trl/index
+https://huggingface.co/learn/deep-rl-course/en/unit1/additional-readings#deep-rl
+https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
+
+Transformer: https://huggingface.co/docs/transformers/main/en/quicktour
 
 Email: email me if you have any idea, suggestion or improvement.
