@@ -52,21 +52,17 @@ This repository contains:
 
 --------------------------------------------------------------------------
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+[//]: # (Thanks - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [Reinforcement-Learning]: <https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0>
-   [git-repo1-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [df1]: <http://daringfireball.net/projects/markdown/>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
+   [DRL]: <https://www.youtube.com/watch?v=SupFHGbytvA&list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps>
+   [Deep Learning]: <https://www.youtube.com/watch?v=CO3-sFmADfI&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A&index=13>
+   [LLM]: <https://stanford-cs324.github.io/winter2022>
+   [Transformers]: <https://web.stanford.edu/class/cs25/index.html#course>
+   [Deep Learning]: <https://cs230.stanford.edu>
+   [Deep Reinforcement Learning]: <https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u>
+   [Physics DRL]: <https://www.youtube.com/@Eigensteve/videos>
+   [RL]: <https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm>
 
    [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
    [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
