@@ -7,7 +7,7 @@ This repository contains:
 - [Reinforcement-Learning] - Reinforcement Learning
 - Reinforcement Learning [DeepMind and Berkley youtube]
 - Deep reinforcement Learning
-- Multiagent Deep Reinforcement Learning
+- [Multi-Agent  Reinforcement Learning]
 
 ------------------------------------------------------------------------
 ## Reinforcement Learning
@@ -30,9 +30,34 @@ This repository contains:
      - REINFORCE
      - Actor-Critic Methods
      - Policy Gradients
+
+ ------------------------------------------------------------------------
+## Deep Reinforcement Learning
+
+### Tabular methods
+- Introduction to Reinforcement Learning
+- Policy Gradients
+- Actor-Critic Algorithms
+- Value Function Methods
+- Deep RL with Q functions
+- Advanced Policy Gradients
+- Optimal Control and Planning
+
+### Approximate Methods
+- Model-Based Reinforcement Learning
+- Model-Based Policy Learning
+- Exploration (Part 1)
+- Exploration (Part 2)
+- Offline Reinforcement Learning (Part 1)
+     - Reinforcement Learning Theory Basics
+     - Variational Inference and Generative Models
+     - Connection between Inference and Control
+     - Inverse Reinforcement Learning
+     - RL with Sequence Models
+     - Meta-Learning and Transfer Learning
        
 -------------------------------------------------------------------------
-## [Multi-Agent  Reinforcement Learning] Book
+## Multi-Agent  Reinforcement Learning
 
 #### Part 1: Foundations of Multi-Agent Reinforcement Learning
 
@@ -43,13 +68,12 @@ This repository contains:
 - Multi-Agent Reinforcement Learning: Foundational Algorithms
 
 #### Part 2: Multi-Agent Deep Reinforcement Learning: Algorithms and Practice
--    [PlDb]
 - Deep Learning
 - Deep Reinforcement Learning
 - Multi-Agent Deep Reinforcement Learning
 - Multi-Agent Deep RL in Practice
 - Multi-Agent Environments
-
+-Bayesin Reinforcement Learning: https://www.youtube.com/watch?v=ar9RLwgUvVQ
 --------------------------------------------------------------------------
 
 [//]: # (Thanks - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
@@ -69,8 +93,6 @@ This repository contains:
    [Deep-rl]: <https://huggingface.co/learn/deep-rl-course/en/unit1/additional-readings#deep-rl>
    [OpenAI-rl]: <https://spinningup.openai.com/en/latest/spinningup/rl_intro.html>
    [Transformer]: <https://huggingface.co/docs/transformers/main/en/quicktour>
- 
-
-Transformer: 
-
+   [BB]: <https://towardsdatascience.com/bayesian-reinforcement-learning-imitation-with-a-safety-net-6dd4d66da8bb>
+   
 Email: email me if you have any idea, suggestion or improvement.
