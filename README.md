@@ -1,98 +1,67 @@
-## Deep-Reinforcement-Learning (Single and Multiagent Learning)
- #100DaysofDRLChallenge [28th June - 6th Oct 2024]
+# Deep-Reinforcement-Learning (Single and Multiagent)
+## #100DaysofDRLChallenge [15th Sept - 24th Dec 2024]
 
-Deep Reinforcement Learning combines reinforcement learning and deep neural network Networks. This repository contains algorithms, code, and examples with Python, Pytorch, stablebaseline3, and RayLib.
+Welcome to the exploration of deep reinforcement learning (DRL), where we merge the principles of reinforcement learning with the capabilities of deep neural networks. This repository serves as your guide through a range of algorithms, coded examples, and discussions, utilizing tools like Python, Pytorch, Stable Baselines3, and RayLib.
 
-This repository contains:
-- [Reinforcement-Learning] - Reinforcement Learning
-- Reinforcement Learning [DeepMind and Berkley youtube]
-- Deep reinforcement Learning
-- [Multi-Agent  Reinforcement Learning]
 
-------------------------------------------------------------------------
-## Reinforcement Learning
+### Syllabus
+#### 1. **Reinforcement Learning Basics**
+  - **Tabular Methods**
+    - Multi-armed Bandits
+    - Finite Markov Decision Processes
+    - Dynamic Programming
+    - Monte Carlo Methods
+    - Temporal Difference Learning
+    - n-step Bootstrapping
+    - Planning and Learning with Tabular Methods
 
-### Tabular methods
-- Multi-armed Bandits
-- Finite Markov Decision Processes
-- Dynamic Programming
-- Monte Carlo Methods
-- Temporal Difference Learning
-- n-step Bootstrapping
-- Planning and Learning with Tabular Methods
+  - **Approximate Methods**
+    - On-policy with Approximation
+    - On-policy Control with Approximation
+    - Off-policy Methods with Approximation
+    - Eligibility Traces
+    - Policy Gradient Methods
+      - REINFORCE
+      - Actor-Critic Methods
+      - Advanced Policy Gradients
 
-### Approximate Methods
-- On-policy with Approximation
-- On-policy Control with Approximation
-- Off-policy Methods with Approximation
-- Eligibility Traces
-- Policy Gradient Methods
-     - REINFORCE
-     - Actor-Critic Methods
-     - Policy Gradients
+#### 2. **Advanced Deep Reinforcement Learning**
+  - **Value Function and Policy Methods**
+    - Introduction to Reinforcement Learning
+    - Policy Gradients
+    - Actor-Critic Algorithms
+    - Value Function Methods
+    - Deep RL with Q functions
+    - Advanced Policy Gradients
+    - Optimal Control and Planning
 
- ------------------------------------------------------------------------
-## Deep Reinforcement Learning
+  - **Model-Based Approaches**
+    - Model-Based Reinforcement Learning
+    - Model-Based Policy Learning
+    - Exploration (Part 1 & 2)
+    - Offline Reinforcement Learning
 
-### Tabular methods
-- Introduction to Reinforcement Learning
-- Policy Gradients
-- Actor-Critic Algorithms
-- Value Function Methods
-- Deep RL with Q functions
-- Advanced Policy Gradients
-- Optimal Control and Planning
+#### 3. **Multi-Agent Reinforcement Learning**
+  - **Part 1: Foundations**
+    - Reinforcement Learning Basics
+    - Models of Multi-Agent Interaction
+    - Solution Concepts for Games
+    - First Steps and Challenges in MARL
 
-### Approximate Methods
-- Model-Based Reinforcement Learning
-- Model-Based Policy Learning
-- Exploration (Part 1)
-- Exploration (Part 2)
-- Offline Reinforcement Learning (Part 1)
-     - Reinforcement Learning Theory Basics
-     - Variational Inference and Generative Models
-     - Connection between Inference and Control
-     - Inverse Reinforcement Learning
-     - RL with Sequence Models
-     - Meta-Learning and Transfer Learning
-       
--------------------------------------------------------------------------
-## Multi-Agent  Reinforcement Learning
+  - **Part 2: Advanced Practices**
+    - Multi-Agent Deep Reinforcement Learning
+    - Practical Applications and Environment Challenges
 
-#### Part 1: Foundations of Multi-Agent Reinforcement Learning
+### Community and Contributions
+- **YouTube Channel:** For more interactive and visual learning, [subscribe here](https://www.youtube.com).
+- **Get Involved:** Email us with ideas, suggestions, or feedback at [example@example.com](mailto:example@example.com). Join us in creating a comprehensive DRL learning resource!
 
-- Reinforcement Learning
-- Models of Multi-Agent Interaction
-- Solution Concepts for Games
-- Multi-Agent Reinforcement Learning in Games: First Steps and Challenges
-- Multi-Agent Reinforcement Learning: Foundational Algorithms
+### Resources 
+- [**Basic Reinforcement Learning**](https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0): A foundation for beginners.
+- [**Deep Reinforcement Learning**](https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u): In-depth tutorials from DeepMind and Berkeley.
+- [**Multi-Agent Reinforcement Learning**](https://www.marl-book.com/download/marl-book.pdf): Tackling complex agent interactions.
 
-#### Part 2: Multi-Agent Deep Reinforcement Learning: Algorithms and Practice
-- Deep Learning
-- Deep Reinforcement Learning
-- Multi-Agent Deep Reinforcement Learning
-- Multi-Agent Deep RL in Practice
-- Multi-Agent Environments
--Bayesin Reinforcement Learning: https://www.youtube.com/watch?v=ar9RLwgUvVQ
---------------------------------------------------------------------------
 
-[//]: # (Thanks - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+### Acknowledgments
+- Thanks to resources from [DeepMind](https://deepmind.com), [UC Berkeley](https://berkeley.edu), and all community contributors.
 
-   [Reinforcement-Learning]: <https://www.youtube.com/watch?v=2GwBez0D20A&list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0>
-   [DRL]: <https://www.youtube.com/watch?v=SupFHGbytvA&list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps>
-   [Deep Learning]: <https://www.youtube.com/watch?v=CO3-sFmADfI&list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A&index=13>
-   [LLM]: <https://stanford-cs324.github.io/winter2022>
-   [Transformers]: <https://web.stanford.edu/class/cs25/index.html#course>
-   [Deep Learning]: <https://cs230.stanford.edu>
-   [Deep Reinforcement Learning]: <https://www.youtube.com/watch?v=FgzM3zpZ55o&list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u>
-   [Physics DRL]: <https://www.youtube.com/@Eigensteve/videos>
-   [RL]: <https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm>
-   [Multi-Agent  Reinforcement Learning]: <https://www.marl-book.com/download/marl-book.pdf>
-
-   [Transformer Reinforcement Learning]: <https://huggingface.co/docs/trl/index>
-   [Deep-rl]: <https://huggingface.co/learn/deep-rl-course/en/unit1/additional-readings#deep-rl>
-   [OpenAI-rl]: <https://spinningup.openai.com/en/latest/spinningup/rl_intro.html>
-   [Transformer]: <https://huggingface.co/docs/transformers/main/en/quicktour>
-   [BB]: <https://towardsdatascience.com/bayesian-reinforcement-learning-imitation-with-a-safety-net-6dd4d66da8bb>
-   
-Email: email me if you have any idea, suggestion or improvement.
