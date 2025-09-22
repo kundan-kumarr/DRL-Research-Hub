@@ -1,5 +1,5 @@
 ## Deep-Reinforcement-Learning (Single and Multiagent)
-### #100DaysofDRLChallenge [7th March  - 15th June 2025]
+### #100DaysofDRLChallenge 
 
 Welcome to the my exploration of deep reinforcement learning (DRL), where I merge the principles of reinforcement learning with the capabilities of deep neural networks. This repository serves as a guide through a range of algorithms, coded examples, and discussions, utilizing tools like Python, Pytorch, Stable Baselines3, and RayLib.
 
